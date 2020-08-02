@@ -1,0 +1,17 @@
+body
+{
+    background: url('../images/204781.jpg') ;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 1000%;
+    opacity: 0.8;
+    color: white;
+}
+
+img
+{
+    border-radius: 50%;
+    border: 5px white;
+    opacity: 1;
+}
