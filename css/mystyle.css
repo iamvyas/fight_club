@@ -9,6 +9,20 @@ body
     color: white;
 }
 
+@media (max-width: 1120px)
+{
+    body  
+    {
+        background: url('../images/alter.jpg') ;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        min-height: 1000%;
+        opacity: 0.8;
+
+    };
+}
+
 img
 {
     border-radius: 50%;
